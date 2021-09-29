@@ -1,5 +1,0 @@
-Definicion of ready
-
-1. Cada tarea esta especificada
-2. Cada tarea es independiente de las otras
-3. Todas tienen  su respectivo puntaje 
